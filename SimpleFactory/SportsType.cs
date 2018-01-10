@@ -9,6 +9,4 @@ namespace SimpleFactory
         Indoor,
         Outdoor
     }
-
-
 }
